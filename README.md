@@ -50,11 +50,10 @@
     ```  Suppose you have only one hand and you want to highlight  ```
     ```  and submit code  ```
     ```    ```
-    ```   1. Hold down left mouse button  ```
-    ```   2. drag over the text you want to submit  ```
-    ```   3. hight right mouse butto  ```
+    ```   1. drag over the text you want to submit  ```
+    ```   2. hight right mouse butto  ```
     ```    ```
-    ```  Highlight the code you want to update  ```
+    ```  Highlight the code you want to update  mutiple cursors ```
     ```    ```
     ```   type c roger mary all;c yesterday today;  ```
     ```    ```
@@ -72,13 +71,13 @@
     ```    ```
     ```  ==========================================================================================  ```
     ```    ```
-    ```  Here is alist of some others (over 20 are on function keys. MX310 5 button programmable mouse)  ```
+    ```  Here is alist of some others (over 20 that are on function keys. MX310 5 button programmable mouse)  ```
     ```    ```
     ```  /* T1004590 SAS-Forum: SAS not working (frozen SAS issue - an old text editor solution)  ```
     ```    ```
     ```  This seems to work 99.99% of the time?  ```
     ```    ```
-    ```  Hit F8 highlight the line in 'old text editor' then hit mouse RMB.  ```
+    ```  Hit F12 highlight the line in 'old text editor' then hit mouse RMB(one hand to do this).  ```
     ```    ```
     ```  see  ```
     ```  https://goo.gl/fQTV9q  ```
@@ -176,7 +175,7 @@
     ```    ```
     ```    ```
     ```    ```
-    ```   These three classic commands do not work consitently or at all?  ```
+    ```   These three classic commands do not work consitently or at all (anymore SAS labeled them non-stategic?)  ```
     ```    ```
     ```   CURSOR  ```
     ```   ======  ```
@@ -187,10 +186,9 @@
     ```    ```
     ```   TF ( prefix area text flow)  ```
     ```   ============================  ```
-    ```    Flows beyond the first blank line (intermittent)  ```
+    ```    Flows text up to the first blank line (intermittent)  ```
     ```   ===  ```
     ```    ```
-    ```   Chages within a highlighted block of code does not shidt code right on insert  ```
     ```    ```
     ```   STORE  ```
     ```   =====  ```
@@ -204,7 +202,7 @@
     ```    ```
     ```     Very fast point and shoot editing and code submit in the old text editor.  ```
     ```    ```
-    ```     suppose you have submit on the right mouse key  ```
+    ```     suppose you have "submit" on the right mouse key  ```
     ```    ```
     ```     Use the ALT key as you hold down the mouse button and drag the mouse  ```
     ```     to select a rectangular block (or column) of te  ```
