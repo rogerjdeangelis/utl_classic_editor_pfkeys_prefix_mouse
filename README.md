@@ -51,7 +51,7 @@
     ```  and submit code  ```
     ```    ```
     ```   1. drag over the text you want to submit  ```
-    ```   2. hight right mouse butto  ```
+    ```   2. hit right mouse button  ```
     ```    ```
     ```  Highlight the code you want to update  mutiple cursors ```
     ```    ```
