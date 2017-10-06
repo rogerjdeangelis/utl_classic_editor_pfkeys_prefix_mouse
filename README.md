@@ -1,5 +1,7 @@
 # utl_classic_editor_pfkeys_prefix_mouse
 
+SAS display manager editor. SAS function keys. Mapped mouse functions. Prefix araea. Best editor for SAS.
+
     ```  SAS Classic Editor Prefix area, Function Keys and Mouse Actions  ```
     ```    ```
     ```  see also  ```
