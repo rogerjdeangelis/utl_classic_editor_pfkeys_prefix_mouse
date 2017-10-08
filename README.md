@@ -73,7 +73,7 @@ SAS display manager editor. SAS function keys. Mapped mouse functions. Prefix ar
     ```    ```
     ```  ==========================================================================================  ```
     ```    ```
-    ```  Here is alist of some others (over 20 that are on function keys. MX310 5 button programmable mouse)  ```
+    ```  Here is alist of some others (over 20 that are on function keys. MX310 or Logitech G203 5 button programmable mice)  ```
     ```    ```
     ```  /* T1004590 SAS-Forum: SAS not working (frozen SAS issue - an old text editor solution)  ```
     ```    ```
