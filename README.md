@@ -104,8 +104,10 @@ SAS display manager editor. SAS function keys. Mapped mouse functions. Prefix ar
                                                                                                                                              
     %mend utlfix;                                                                                                                            
                                                                                                                                              
-    for my performance command macros                                                                                                        
-    https://www.dropbox.com/s/pwx0r8dqko1ocoj/utl_perpac.sas?dl=0                                                                            
+    for my performance command macros(utl_perpac.sas)                                                                                                                                                                                           
+    https://tinyurl.com/y9nfugth                                                               
+    https://github.com/rogerjdeangelis/utl-macros-used-in-many-of-rogerjdeangelis-repositories 
+                                                                          
                                                                                                                                              
     My function keys (requires MX310 mouse with over 20 actions)                                                                             
                                                                                                                                              
