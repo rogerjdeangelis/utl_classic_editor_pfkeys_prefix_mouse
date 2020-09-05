@@ -48,9 +48,9 @@ SAS display manager editor. SAS function keys. Mapped mouse functions. Prefix ar
                                                                                                                                              
      1. Hold down left mouse button                                                                                                          
      2. drag over the text you want to submit                                                                                                
-     3. hight right mouse butto                                                                                                              
+     3. hit right mouse button                                                                                                              
                                                                                                                                              
-    Highlight the code you want to update                                                                                                    
+    Highlight the code you want to update and do two changes at once                                                                                                  
                                                                                                                                              
      type c roger mary all;c yesterday today;                                                                                                
                                                                                                                                              
